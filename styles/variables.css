@@ -6,6 +6,8 @@
     --title-weight: 785; /*вес шрифта заголовка*/
     --themes-background: #fff; /*цвет фона секций*/
     --themes-mainColor: #000; /*основной цвет обводки*/
+    --contour-color: #000; /*цвет контура сердца*/
+    --animation-fill-color: #FF0000; /*цвет искр и заливки*/
 
     --grid-gradient:
     repeating-linear-gradient(

@@ -1,7 +1,7 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
     --main-font: "Inter", sans-serif; /*основной шрифт*/
-    --accent-font: "PressStart2P-Regular", monospace; /*акцентный шрифт*/
+    --accent-font: "PressStart2P", monospace; /*акцентный шрифт*/
     --main-font-variations: 400; /*основной вес шрифта*/
     --title-weight: 785; /*вес шрифта заголовка*/
     --themes-background: #fff; /*цвет фона секций*/
